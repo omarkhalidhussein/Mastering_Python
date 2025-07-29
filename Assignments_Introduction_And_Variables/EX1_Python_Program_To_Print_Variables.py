@@ -2,7 +2,7 @@
 # Name        : EX1_Python_Program_To_Print_Sentence.py
 # Author      : Omar Khalid
 # Created on  : July 29, 2025
-# Description : Python Programming >> Assignment 1 Python - Introduction And Variables >> EX2 Python Program To Print Sentence
+# Description : Python Programming >> Assignment 1 Python - Introduction And Variables >> EX1 Python Program To Print Sentence
 # ==============================================================================================================================
 
 Name = "Omar Khalid"
